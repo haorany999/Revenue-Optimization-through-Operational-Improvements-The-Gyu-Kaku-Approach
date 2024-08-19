@@ -41,6 +41,6 @@ This project explores potential improvements in the operations of Gyu-Kaku, a re
 - Chong Peng
 - Zehao Zhou
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+## License
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
